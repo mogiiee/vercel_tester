@@ -6,6 +6,7 @@ const MainEntry: React.FC = () => {
     <Layout>
       <h1>Welcome to the Next.js App</h1>
       <p>This is the main entry page.</p>
+      <p> hekkksdfjjsdfksldkjfh </p>
     </Layout>
   );
 }
